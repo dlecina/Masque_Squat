@@ -1,10 +1,10 @@
 --[[
 
-	This file is part of 'Masque: Caith', an add-on for World of Warcraft. For license information,
-	please see the included License.txt file or visit https://github.com/StormFX/Masque_Caith.
+	This file is part of 'Masque: Squat', an add-on for World of Warcraft. For license information,
+	please see the included License.txt file or visit https://github.com/dlecina/Masque_Squat.
 
 	* File....: Locales.lua
-	* Authors.: StormFX
+	* Authors.: dlecina
 
 ]]
 
@@ -28,7 +28,7 @@ Core.Locale = setmetatable(L, {
 local Locale = GetLocale()
 
 if Locale == "enGB" or Locale == "enUS" then
-	--L["A larger version of Apathy inspired by Caith UI."] = "A larger version of Apathy inspired by Caith UI."
+	--L["A nice and short skin for Masque."] = "A nice and short skin for Masque."
 	return
 --elseif Locale == "deDE" then
 --elseif Locale == "esES" or Locale == "esMX" then
@@ -38,6 +38,5 @@ if Locale == "enGB" or Locale == "enUS" then
 --elseif Locale == "ptBR" then
 --elseif Locale == "ruRU" then
 --elseif Locale == "zhCN" then
-elseif Locale == "zhTW" then
-	L["A larger version of Apathy inspired by Caith UI."] = "一個更大版本的Apathy，啟發自Caith UI。"
+--elseif Locale == "zhTW" then
 end
