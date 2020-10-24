@@ -1,69 +1,88 @@
-[![Latest][Badge-Latest]][Latest]
+[![Build][SVG-Build]][Build]
+[![Masque][SVG-Masque]][Masque]
+[![Twitter][SVG-Twitter]][Twitter]
+[![Sponsor][SVG-Sponsor]][Sponsor]
+[![PayPal][SVG-PayPal]][PayPal]
 
-## About
+<details>
+<summary><strong>Contents</strong></summary><p>
 
-_Squat_ is an add-on for [World of Warcraft] that adds a custom skin for [Masque].
+- [About](#About "Go to About")
+- [Skin](#Skin "Go to Skin")
+- [Requirements](#Requirements "Go to Requirements")
+- [Installation](#Installation "Go to Installation")
+- [Credits](#Credits "Go to Credits")
+- [Feedback](#Feedback "Go to Feedback")
+- [Localization](#Localization "Go to Localization")
+- [Links](#Links "Go to Links")
 
-The Squat skin is nice and short, allowing you to regain some vertical space in your UI while respecting the icons' aspect ratio (by respectfully chopping some bits off the top and bottom).
+</p></details>
+
+## [About][Top]
+
+**Masque: Squat** is an add-on for [World of Warcraft] that adds a custom skin for [Masque].
+
+## [Skin][Top]
+
+This add-on contains the following skin:
+
+- **Squat** - The Squat skin is nice and short, allowing you to regain some vertical space in your UI while respecting the icons' aspect ratio (by respectfully chopping some bits off the top and bottom).
 
 **Squat is recommended only for Action Bars**, although it can also be used for Buffs & Debuffs and Inventory. However, there is a good chance that your addon will attempt to display them as full, square icons, keeping some blank space at the top and bottom. This is a consequence of how these addons work, and I can do nothing to fix it, as far as I know.
 
-_**Note:** You must have [Masque] installed to use this skin._
+## [Requirements][Top]
 
-## Installation
+This add-on requires [Masque].
 
-Install the package through your preferred add-on manager. You can also install the add-on manually using the following steps:
+## [Installation][Top]
 
-1. Download the package from one of the following sites:
-    - [GitHub]
-    - ~~[WoW Ace]~~ (Not yet supported)
-    - [CurseForge]
-    - ~~[WoW Interface]~~ (Not yet supported)
-2. Extract the package to the appropriate directory:
-    - Retail: `World of Warcraft\_retail_\Interface\AddOns`
-    - Classic: `World of Warcraft\_classic_\Interface\AddOns`
+Install the package through your preferred add-on manager or extract the archive to your add-ons directory.
 
-## Links
+- **Classic:** `World of Warcraft\_classic_\Interface\AddOns`
+- **Retail:** `World of Warcraft\_retail_\Interface\AddOns`
 
-- [Masque]
-- [Masque Wiki]
-- [Skin List]
-- [Masque on Facebook]
+## [Credits][Top]
 
-## Credits
+- _StormFX_ for the Masque Caith skin.
+- _Caith_ for the his UI.
+- _Zeal_ for the original **Vol** skin.
 
-- _Zeal_ for the original _Vol_ skin.
-- _StormFX_ for the original _Caith_ skin.
+## [Feedback][Top]
 
-## Feedback
+For bug reports and suggestions, use the [issue tracker].
 
-For bug reports and suggestions, please use the [issue tracker] on GitHub.
+## [Localization][Top]
 
-## Localization
+To help translate this add-on, use the [issue tracker].
 
-To help translate this add-on, please [contribute directly] on GitHub.
+## [Links][Top]
+
+- [Masque][Masque]
+- [CurseForge][CurseForge]
+- [WoW Ace][WoW Ace]
+- [WoW Interface]
 
 [Links]: #
 
-[Masque]: https://github.com/StormFX/Masque (Download Masque)
+[Build]: https://github.com/dlecina/Masque_Squat/actions?query=workflow%3ARelease (Build Status)
+[Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
+[Twitter]: https://twitter.com/alllucky7s (Follow on Twitter)
+[Sponsor]: https://github.com/sponsors/dlecina (Sponsor on GitHub)
+[PayPal]: https://www.paypal.me/dlecina (Donate via PayPal)
+
 [World of Warcraft]: https://worldofwarcraft.com (World of Warcraft)
 
-[GitHub]: https://github.com/dlecina/Masque_Squat (Download from GitHub)
-[WoW Ace]: https://www.wowace.com/projects/masque-squat (Download from WoW Ace)
-[CurseForge]: https://www.curseforge.com/wow/addons/masque-squat (Download from CurseForge)
-[WoW Interface]: https://www.wowinterface.com/downloads/infoXXXX (Download from WoW Interface)
+[CurseForge]: https://www.curseforge.com/wow/addons/masque-squat (View on CurseForge)
+[GitHub]: https://github.com/dlecina/Masque_Squat (View on GitHub)
+[WoW Ace]: https://www.wowace.com/projects/masque-squat (View on WoW Ace)
+[WoW Interface]: https://www.wowinterface.com/downloads/infoXXXX (View on WoW Interface)
 
-[Masque Wiki]: https://github.com/StormFX/Masque/wiki (Masque Wiki)
-[Skin List]: https://github.com/StormFX/Masque/wiki/Skin-List (Masque Skin List)
-[Masque on Facebook]: https://www.facebook.com/masqueui (Masque on Facebook)
-
-[issue tracker]: https://github.com/dlecina/Masque_Squat/issues (Report an Issue)
-[contribute directly]: https://github.com/dlecina/Masque_Squat (Translate on GitHub)
-
-[Travis]: https://travis-ci.org/dlecina/Masque_Squat (Latest Build)
-[Latest]: https://github.com/dlecina/Masque_Squat/releases (Latest Release)
+[Top]: #Top (Top of the Page)
 
 [Images]: #
 
-[Badge-Travis]: https://img.shields.io/travis/dlecina/Masque_Squat/master?label=Build&style=flat-square
-[Badge-Latest]: https://img.shields.io/github/v/release/dlecina/Masque_Squat?include_prereleases&label=Latest&style=flat-square
+[SVG-Build]: https://img.shields.io/github/workflow/status/dlecina/Masque_Squat/Release?label=Build&logo=github&logoColor=fff&style=flat-square
+[SVG-Masque]: https://img.shields.io/endpoint?url=https://wow.stormfx.com/img/svg/masque-skin.json
+[SVG-Twitter]: https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat-square
+[SVG-Sponsor]: https://img.shields.io/badge/Sponsor-555?logo=github&logoColor=fff&style=flat-square
+[SVG-PayPal]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/paypal.json

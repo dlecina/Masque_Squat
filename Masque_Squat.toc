@@ -1,10 +1,16 @@
-## Interface: 80200
+#@retail@
+## Interface: 90001
+#@end-retail@
+#@non-retail@
+# ## Interface: 11305
+#@end-non-retail@
 ## Title: Masque: Squat
 
 ## Notes: Squat skin for Masque.
 ## Notes-deDE: Squat-Skin für Masque.
 ## Notes-esES: Skin Squat para Masque.
 ## Notes-esMX: Skin Squat para Masque.
+## Notes-frFR: Skin de Squat pour Masque.
 ## Notes-itIT: Skin Squat per Masque.
 ## Notes-ruRU: Скин Squat для Masque.
 ## Notes-zhTW: Masque的Squat皮膚。
