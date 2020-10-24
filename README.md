@@ -1,3 +1,4 @@
+[![Latest][Badge-Latest]][Latest]
 [![Build][SVG-Build]][Build]
 [![Masque][SVG-Masque]][Masque]
 [![Twitter][SVG-Twitter]][Twitter]
@@ -81,6 +82,7 @@ To help translate this add-on, use the [issue tracker].
 
 [Images]: #
 
+[Badge-Latest]: https://img.shields.io/github/v/release/dlecina/Masque_Squat?include_prereleases&label=Latest&style=flat-square
 [SVG-Build]: https://img.shields.io/github/workflow/status/dlecina/Masque_Squat/Release?label=Build&logo=github&logoColor=fff&style=flat-square
 [SVG-Masque]: https://img.shields.io/endpoint?url=https://wow.stormfx.com/img/svg/masque-skin.json
 [SVG-Twitter]: https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat-square
