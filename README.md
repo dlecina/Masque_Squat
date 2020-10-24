@@ -65,6 +65,7 @@ To help translate this add-on, use the [issue tracker].
 
 [Links]: #
 
+[Latest]: https://github.com/dlecina/Masque_Squat/releases (Latest Release)
 [Build]: https://github.com/dlecina/Masque_Squat/actions?query=workflow%3ARelease (Build Status)
 [Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
 [Twitter]: https://twitter.com/alllucky7s (Follow on Twitter)
