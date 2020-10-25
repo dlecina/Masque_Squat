@@ -74,6 +74,8 @@ To help translate this add-on, use the [issue tracker].
 
 [World of Warcraft]: https://worldofwarcraft.com (World of Warcraft)
 
+[Issue Tracker]: https://github.com/dlecina/Masque_Squat/issues (Report an Issue)
+
 [CurseForge]: https://www.curseforge.com/wow/addons/masque-squat (View on CurseForge)
 [GitHub]: https://github.com/dlecina/Masque_Squat (View on GitHub)
 [WoW Ace]: https://www.wowace.com/projects/masque-squat (View on WoW Ace)
