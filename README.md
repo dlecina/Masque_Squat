@@ -60,6 +60,7 @@ To help translate this add-on, use the [issue tracker].
 
 - [Masque][Masque]
 - [CurseForge][CurseForge]
+- [Wago][Wago]
 - [WoW Ace][WoW Ace]
 - [WoW Interface]
 
@@ -77,6 +78,7 @@ To help translate this add-on, use the [issue tracker].
 [Issue Tracker]: https://github.com/dlecina/Masque_Squat/issues (Report an Issue)
 
 [CurseForge]: https://www.curseforge.com/wow/addons/masque-squat (View on CurseForge)
+[Wago]: https://addons.wago.io/addons/masque-squat (View on Wago Addons)
 [GitHub]: https://github.com/dlecina/Masque_Squat (View on GitHub)
 [WoW Ace]: https://www.wowace.com/projects/masque-squat (View on WoW Ace)
 [WoW Interface]: https://www.wowinterface.com/downloads/infoXXXX (View on WoW Interface)
