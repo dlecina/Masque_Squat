@@ -1,3 +1,7 @@
+## 1.11.0
+
+- Updated the `Interface` version for _Wrath of the Lich King Classic_ to `30400`.
+
 ## 1.10.0
 
 - Updated the `Interface` version for _Burning Crusade Classic_ to `20504`.
