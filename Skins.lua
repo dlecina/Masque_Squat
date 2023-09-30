@@ -952,8 +952,8 @@ MSQ:AddSkin("Squatter", {
 		-- SetAllPoints = nil,
 	},
 	AutoCastShine = {
-		Width = 35,
-		Height = 15,
+		Width = 34,
+		Height = 18,
 		Point = "CENTER",
 		RelPoint = "CENTER",
 		OffsetX = 1,
@@ -964,7 +964,7 @@ MSQ:AddSkin("Squatter", {
 		-- Texture = nil,
 		Color = {0, 0, 0, 0.7},
 		Width = 36,
-		Height = 17,
+		Height = 19,
 		Point = "CENTER",
 		RelPoint = "CENTER",
 		OffsetX = 0,
@@ -973,7 +973,7 @@ MSQ:AddSkin("Squatter", {
 	},
 	ChargeCooldown = {
 		Width = 36,
-		Height = 17,
+		Height = 19,
 		-- Point = "CENTER",
 		-- RelPoint = "CENTER",
 		-- OffsetX = 0,

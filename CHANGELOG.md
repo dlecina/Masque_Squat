@@ -1,3 +1,7 @@
+## 1.12.1
+
+- Adjusted Squatter skin cooldown layer height
+
 ## 1.12.0
 
 - Added the Squatter skin
