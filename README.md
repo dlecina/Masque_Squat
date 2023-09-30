@@ -25,9 +25,10 @@
 
 ## [Skin][Top]
 
-This add-on contains the following skin:
+This add-on contains the following skins:
 
 - **Squat** - The Squat skin is nice and short, allowing you to regain some vertical space in your UI while respecting the icons' aspect ratio (by respectfully chopping some bits off the top and bottom).
+- **Squatter** - The Squatter skin is even shorter than Squat, at an almost 2:1 Width:Height ratio.
 
 **Squat is recommended only for Action Bars**, although it can also be used for Buffs & Debuffs and Inventory. However, there is a good chance that your addon will attempt to display them as full, square icons, keeping some blank space at the top and bottom. This is a consequence of how these addons work, and I can do nothing to fix it, as far as I know.
 

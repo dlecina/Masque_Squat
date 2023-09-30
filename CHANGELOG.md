@@ -1,3 +1,7 @@
+## 1.12.0
+
+- Added the Squatter skin
+
 ## 1.11.1
 
 - Updated the `Interface` version for _Retail_ to `100107`.
