@@ -1,3 +1,8 @@
+## 1.12.2
+
+- Fixed `GetAddOnMetadata` for 11.02
+- Updated the `Interface` version
+
 ## 1.12.1
 
 - Adjusted Squatter skin cooldown layer height

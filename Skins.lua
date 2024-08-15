@@ -25,6 +25,7 @@ local AddOn, Core = ...
 local L = Core.Locale
 
 -- Skin Info
+local GetAddOnMetadata = C_AddOns and C_AddOns.GetAddOnMetadata or GetAddOnMetadata
 local Version = GetAddOnMetadata(AddOn, "Version")
 local Websites = {
 	"https://github.com/dlecina/Masque_Squat",
